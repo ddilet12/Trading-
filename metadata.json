@@ -1,0 +1,6 @@
+{
+  "name": "Легкий старт — Курс по трейдингу Debroni",
+  "description": "Адаптивный лендинг курса по трейдингу «Легкий старт» от практикующего трейдера Debroni. Программа обучения, кейсы учеников, отзывы и калькулятор риска.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
